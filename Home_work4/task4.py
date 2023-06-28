@@ -1,8 +1,6 @@
-
-
-
-
-
+# Возьмите задачу о банкомате из семинара 2. Разбейте её
+# на отдельные операции — функции. Дополнительно сохраняйте
+# все операции поступления и снятия средств в список.
 
 
 class BankMachine:
@@ -15,9 +13,11 @@ class BankMachine:
     COUNT_LIST: list[str]
     TOTAL_SCORE = 0
 
+
     def __init__(self):
         self.COUNT = 0
         self.COUNT_LIST = dict()
+
 
     def add_cash(self, cash: int, perc: int) -> tuple[int, int] | None:
         if cash % self.MULT == 0:
@@ -28,6 +28,7 @@ class BankMachine:
         else:
             return None
 
+
     def give_cash(self, cash: int, taxes: int, perc: int) -> tuple[int, int] | None:
         if cash % self.MULT == 0 and self.TOTAL_SCORE > 0 and self.TOTAL_SCORE - (cash + taxes + perc) >= 0:
             self.TOTAL_SCORE -= cash + taxes + perc
@@ -36,6 +37,7 @@ class BankMachine:
             return self.TOTAL_SCORE, self.COUNT
         else:
             return None
+
 
     def payment_processing(self, cash: int) -> int:
         tmp_cash = cash * self.PERCENT
@@ -49,6 +51,7 @@ class BankMachine:
             tmp_cash = int(tmp_cash)
         return tmp_cash
 
+
     def payment_per(self, cash: int) -> int:
         if cash >= self.MAX_SCORE:
             print(f'\nНачислен налог на богатство! {cash * self.RICH_PERCENT}')
@@ -56,16 +59,20 @@ class BankMachine:
         else:
             return 0
 
+
     def quit_bank(self):
         return "Всего доброго"
+
 
     def add_bonus(self):
         self.TOTAL_SCORE += self.TOTAL_SCORE * self.EXTRA_PERCENT
         return f'Было произведено 3 операции начислено 3%: {int(self.TOTAL_SCORE * self.EXTRA_PERCENT)}\n'
 
+
     def count_list(self) -> None:
         for index, op in self.COUNT_LIST.items():
             print(f'{index} - {op}')
+
 
     def payment(self, mode: str, cash: int = 0) -> str:
         if self.COUNT % 3 == 0:
