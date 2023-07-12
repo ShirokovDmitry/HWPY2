@@ -1,0 +1,128 @@
+[
+    {
+        "name": "data.csv",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "data1.csv",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 70
+    },
+    {
+        "name": "data1.json",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 84
+    },
+    {
+        "name": "data1.pickle",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 92
+    },
+    {
+        "name": "result1.csv",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 175
+    },
+    {
+        "name": "result1.json",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 376
+    },
+    {
+        "name": "result1.pickle",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 215
+    },
+    {
+        "name": "results.csv",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 1229
+    },
+    {
+        "name": "results.json",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 3490
+    },
+    {
+        "name": "results.pickle",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 820
+    },
+    {
+        "name": "task1.py",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 1570
+    },
+    {
+        "name": "task2.py",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 1092
+    },
+    {
+        "name": "task3.py",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 1211
+    },
+    {
+        "name": "task4.py",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 821
+    },
+    {
+        "name": "task8.py",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "file",
+        "size": 2640
+    },
+    {
+        "name": "data.csv",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8\\\u041d\u043e\u0432\u0430\u044f \u043f\u0430\u043f\u043a\u0430",
+        "type": "file",
+        "size": 64
+    },
+    {
+        "name": "data1.json",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8\\\u041d\u043e\u0432\u0430\u044f \u043f\u0430\u043f\u043a\u0430",
+        "type": "file",
+        "size": 84
+    },
+    {
+        "name": "result1.csv",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8\\\u041d\u043e\u0432\u0430\u044f \u043f\u0430\u043f\u043a\u0430",
+        "type": "file",
+        "size": 175
+    },
+    {
+        "name": "result1.json",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8\\\u041d\u043e\u0432\u0430\u044f \u043f\u0430\u043f\u043a\u0430",
+        "type": "file",
+        "size": 376
+    },
+    {
+        "name": "result1.pickle",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8\\\u041d\u043e\u0432\u0430\u044f \u043f\u0430\u043f\u043a\u0430",
+        "type": "file",
+        "size": 215
+    },
+    {
+        "name": "\u041d\u043e\u0432\u0430\u044f \u043f\u0430\u043f\u043a\u0430",
+        "path": "E:\\GitLibrary\\Pycharm\\Home_work8",
+        "type": "directory",
+        "size": 914
+    }
+]
