@@ -18,7 +18,7 @@ class PickleToCsvConverter:
         if isinstance(data, dict):
             data = [data]
         elif not isinstance(data, list) or not all(isinstance(d, dict) for d in data):
-            raise ValueError("Данные pickle файле должны быть словарем.")
+            raise ValueError("Данные в pickle файле должны быть словарем.")
 
         all_keys = set()
         for d in data:
