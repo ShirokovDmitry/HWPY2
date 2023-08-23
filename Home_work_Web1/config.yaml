@@ -1,0 +1,6 @@
+wsdl: https://speller.yandex.net/services/spellservice?WSDL
+
+address: https://test-stand.gb.ru/gateway/login
+username: Igor87
+password: 4dad2d3be0
+address_posts: https://test-stand.gb.ru/api/posts
