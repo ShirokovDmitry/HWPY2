@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: chrome
+step_time: 3
+implicitly_wait: 1
+username: Igor87
+password: 4dad2d3be0
+title: A title
+description: A description
+content: A content
