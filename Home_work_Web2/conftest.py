@@ -58,7 +58,7 @@ def x_selector_7():
 
 @pytest.fixture()
 def btn_selector3():
-    return """//*[@id="create-item"]/div/div/div[7]/div/button/div"""
+    return """#create-item > div > div > div:nth-child(7) > div > button > span"""
 
 @pytest.fixture()
 def x_selector_8():
