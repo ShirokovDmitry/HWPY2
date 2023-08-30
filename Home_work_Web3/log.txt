@@ -1,0 +1,19 @@
+2023-08-30 17:16:49 INFO ====== WebDriver manager ======
+2023-08-30 17:16:50 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 17:16:50 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 17:16:50 INFO There is no [win64] chromedriver "116.0.5845.140" for browser google-chrome "116.0.5845.140" in cache
+2023-08-30 17:16:50 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 17:16:51 INFO WebDriver version 116.0.5845.96 selected
+2023-08-30 17:16:51 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-30 17:16:51 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-30 17:16:51 INFO Driver downloading response is 200
+2023-08-30 17:16:51 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 17:16:51 INFO Driver has been saved in cache [C:\Users\The\.wdm\drivers\chromedriver\win64\116.0.5845.140]
+2023-08-30 17:16:52 INFO Test2 Starting
+2023-08-30 17:16:52 INFO Send Igor87 to element //*[@id="login"]/div[1]/label/input
+2023-08-30 17:16:53 INFO Send 4dad2d3be0 to element //*[@id="login"]/div[2]/label/input
+2023-08-30 17:16:53 INFO Click login button
+2023-08-30 17:16:54 INFO testContact Starting
+2023-08-30 17:16:54 INFO enter contact
+2023-08-30 17:16:54 INFO fill contact: A name, Aemail@email.em, New content
+2023-08-30 17:16:56 INFO switch contact

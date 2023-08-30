@@ -50,6 +50,7 @@ def test_step3(btn_selector2, x_selector_5, x_selector_6, x_selector_7, btn_sele
     input3 = site.find_element('xpath', x_selector_7)
     input3.clear()
     input3.send_keys(testdata['content'])
+    btn_selector3 = 'button'
     btn3 = site.find_element('css', btn_selector3)
     btn3.click()
     time.sleep(3)
