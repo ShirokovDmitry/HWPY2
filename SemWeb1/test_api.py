@@ -1,5 +1,3 @@
-import yaml
-
 from task1 import check_text
 import requests
 import yaml
